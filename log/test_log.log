@@ -1,0 +1,223 @@
+[2019-12-20 10:15:38] [INFO] ----------------------------数据信息 START--------------------------
+[2019-12-20 10:15:38] [INFO] 当前使用数据集: data
+[2019-12-20 10:15:38] [INFO] test_label:(24, 100, 7)
+[2019-12-20 10:15:38] [INFO] ----------------------------数据信息 END--------------------------
+[2019-12-20 10:15:45] [WARNING] From C:\ProgramData\Anaconda3\lib\site-packages\keras\backend\tensorflow_backend.py:74: The name tf.get_default_graph is deprecated. Please use tf.compat.v1.get_default_graph instead.
+
+[2019-12-20 10:15:45] [WARNING] From C:\ProgramData\Anaconda3\lib\site-packages\keras\backend\tensorflow_backend.py:517: The name tf.placeholder is deprecated. Please use tf.compat.v1.placeholder instead.
+
+[2019-12-20 10:15:45] [WARNING] From C:\ProgramData\Anaconda3\lib\site-packages\keras\backend\tensorflow_backend.py:4138: The name tf.random_uniform is deprecated. Please use tf.random.uniform instead.
+
+[2019-12-20 10:15:45] [WARNING] From C:\ProgramData\Anaconda3\lib\site-packages\keras\backend\tensorflow_backend.py:133: The name tf.placeholder_with_default is deprecated. Please use tf.compat.v1.placeholder_with_default instead.
+
+[2019-12-20 10:15:45] [WARNING] From C:\ProgramData\Anaconda3\lib\site-packages\keras\backend\tensorflow_backend.py:3445: calling dropout (from tensorflow.python.ops.nn_ops) with keep_prob is deprecated and will be removed in a future version.
+Instructions for updating:
+Please use `rate` instead of `keep_prob`. Rate should be set to `rate = 1 - keep_prob`.
+[2019-12-20 10:15:46] [WARNING] From C:\ProgramData\Anaconda3\lib\site-packages\keras\optimizers.py:790: The name tf.train.Optimizer is deprecated. Please use tf.compat.v1.train.Optimizer instead.
+
+[2019-12-20 10:15:47] [WARNING] From C:\ProgramData\Anaconda3\lib\site-packages\tensorflow_core\python\ops\math_ops.py:2509: where (from tensorflow.python.ops.array_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.where in 2.0, which has the same broadcast rule as np.where
+[2019-12-20 10:15:49] [WARNING] From C:\ProgramData\Anaconda3\lib\site-packages\keras\backend\tensorflow_backend.py:174: The name tf.get_default_session is deprecated. Please use tf.compat.v1.get_default_session instead.
+
+[2019-12-20 10:15:49] [WARNING] From C:\ProgramData\Anaconda3\lib\site-packages\keras\backend\tensorflow_backend.py:181: The name tf.ConfigProto is deprecated. Please use tf.compat.v1.ConfigProto instead.
+
+[2019-12-20 10:15:49] [WARNING] From C:\ProgramData\Anaconda3\lib\site-packages\keras\backend\tensorflow_backend.py:186: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+[2019-12-20 10:15:49] [WARNING] From C:\ProgramData\Anaconda3\lib\site-packages\keras\backend\tensorflow_backend.py:190: The name tf.global_variables is deprecated. Please use tf.compat.v1.global_variables instead.
+
+[2019-12-20 10:15:49] [WARNING] From C:\ProgramData\Anaconda3\lib\site-packages\keras\backend\tensorflow_backend.py:199: The name tf.is_variable_initialized is deprecated. Please use tf.compat.v1.is_variable_initialized instead.
+
+[2019-12-20 10:15:49] [WARNING] From C:\ProgramData\Anaconda3\lib\site-packages\keras\backend\tensorflow_backend.py:206: The name tf.variables_initializer is deprecated. Please use tf.compat.v1.variables_initializer instead.
+
+[2019-12-20 10:16:52] [INFO] ----------------------------数据信息 START--------------------------
+[2019-12-20 10:16:52] [INFO] 当前使用数据集: data
+[2019-12-20 10:16:52] [INFO] test_label:(24, 100, 7)
+[2019-12-20 10:16:52] [INFO] ----------------------------数据信息 END--------------------------
+[2019-12-20 10:16:52] [WARNING] From C:\ProgramData\Anaconda3\lib\site-packages\keras\backend\tensorflow_backend.py:74: The name tf.get_default_graph is deprecated. Please use tf.compat.v1.get_default_graph instead.
+
+[2019-12-20 10:16:52] [WARNING] From C:\ProgramData\Anaconda3\lib\site-packages\keras\backend\tensorflow_backend.py:517: The name tf.placeholder is deprecated. Please use tf.compat.v1.placeholder instead.
+
+[2019-12-20 10:16:52] [WARNING] From C:\ProgramData\Anaconda3\lib\site-packages\keras\backend\tensorflow_backend.py:4138: The name tf.random_uniform is deprecated. Please use tf.random.uniform instead.
+
+[2019-12-20 10:16:52] [WARNING] From C:\ProgramData\Anaconda3\lib\site-packages\keras\backend\tensorflow_backend.py:133: The name tf.placeholder_with_default is deprecated. Please use tf.compat.v1.placeholder_with_default instead.
+
+[2019-12-20 10:16:52] [WARNING] From C:\ProgramData\Anaconda3\lib\site-packages\keras\backend\tensorflow_backend.py:3445: calling dropout (from tensorflow.python.ops.nn_ops) with keep_prob is deprecated and will be removed in a future version.
+Instructions for updating:
+Please use `rate` instead of `keep_prob`. Rate should be set to `rate = 1 - keep_prob`.
+[2019-12-20 10:16:52] [WARNING] From C:\ProgramData\Anaconda3\lib\site-packages\keras\optimizers.py:790: The name tf.train.Optimizer is deprecated. Please use tf.compat.v1.train.Optimizer instead.
+
+[2019-12-20 10:16:52] [WARNING] From C:\ProgramData\Anaconda3\lib\site-packages\tensorflow_core\python\ops\math_ops.py:2509: where (from tensorflow.python.ops.array_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.where in 2.0, which has the same broadcast rule as np.where
+[2019-12-20 10:17:49] [WARNING] From C:\ProgramData\Anaconda3\lib\site-packages\keras\backend\tensorflow_backend.py:174: The name tf.get_default_session is deprecated. Please use tf.compat.v1.get_default_session instead.
+
+[2019-12-20 10:17:49] [WARNING] From C:\ProgramData\Anaconda3\lib\site-packages\keras\backend\tensorflow_backend.py:181: The name tf.ConfigProto is deprecated. Please use tf.compat.v1.ConfigProto instead.
+
+[2019-12-20 10:17:49] [WARNING] From C:\ProgramData\Anaconda3\lib\site-packages\keras\backend\tensorflow_backend.py:186: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+[2019-12-20 10:17:49] [WARNING] From C:\ProgramData\Anaconda3\lib\site-packages\keras\backend\tensorflow_backend.py:190: The name tf.global_variables is deprecated. Please use tf.compat.v1.global_variables instead.
+
+[2019-12-20 10:17:49] [WARNING] From C:\ProgramData\Anaconda3\lib\site-packages\keras\backend\tensorflow_backend.py:199: The name tf.is_variable_initialized is deprecated. Please use tf.compat.v1.is_variable_initialized instead.
+
+[2019-12-20 10:17:49] [WARNING] From C:\ProgramData\Anaconda3\lib\site-packages\keras\backend\tensorflow_backend.py:206: The name tf.variables_initializer is deprecated. Please use tf.compat.v1.variables_initializer instead.
+
+[2019-12-20 10:18:32] [INFO] ================================================
+[2019-12-20 10:18:32] [INFO] --------------:f1: 0.0033180746880500786 --------------
+[2019-12-20 10:18:33] [INFO] --------------:recall: 0.0016812439261418854 --------------
+[2019-12-20 10:18:40] [INFO] ----------------------------数据信息 START--------------------------
+[2019-12-20 10:18:40] [INFO] 当前使用数据集: data
+[2019-12-20 10:18:40] [INFO] test_label:(24, 100, 7)
+[2019-12-20 10:18:40] [INFO] ----------------------------数据信息 END--------------------------
+[2019-12-20 10:18:40] [WARNING] From C:\ProgramData\Anaconda3\lib\site-packages\keras\backend\tensorflow_backend.py:74: The name tf.get_default_graph is deprecated. Please use tf.compat.v1.get_default_graph instead.
+
+[2019-12-20 10:18:40] [WARNING] From C:\ProgramData\Anaconda3\lib\site-packages\keras\backend\tensorflow_backend.py:517: The name tf.placeholder is deprecated. Please use tf.compat.v1.placeholder instead.
+
+[2019-12-20 10:18:40] [WARNING] From C:\ProgramData\Anaconda3\lib\site-packages\keras\backend\tensorflow_backend.py:4138: The name tf.random_uniform is deprecated. Please use tf.random.uniform instead.
+
+[2019-12-20 10:18:40] [WARNING] From C:\ProgramData\Anaconda3\lib\site-packages\keras\backend\tensorflow_backend.py:133: The name tf.placeholder_with_default is deprecated. Please use tf.compat.v1.placeholder_with_default instead.
+
+[2019-12-20 10:18:40] [WARNING] From C:\ProgramData\Anaconda3\lib\site-packages\keras\backend\tensorflow_backend.py:3445: calling dropout (from tensorflow.python.ops.nn_ops) with keep_prob is deprecated and will be removed in a future version.
+Instructions for updating:
+Please use `rate` instead of `keep_prob`. Rate should be set to `rate = 1 - keep_prob`.
+[2019-12-20 10:18:40] [WARNING] From C:\ProgramData\Anaconda3\lib\site-packages\keras\optimizers.py:790: The name tf.train.Optimizer is deprecated. Please use tf.compat.v1.train.Optimizer instead.
+
+[2019-12-20 10:18:40] [WARNING] From C:\ProgramData\Anaconda3\lib\site-packages\tensorflow_core\python\ops\math_ops.py:2509: where (from tensorflow.python.ops.array_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.where in 2.0, which has the same broadcast rule as np.where
+[2019-12-20 10:18:40] [WARNING] From C:\ProgramData\Anaconda3\lib\site-packages\keras\backend\tensorflow_backend.py:174: The name tf.get_default_session is deprecated. Please use tf.compat.v1.get_default_session instead.
+
+[2019-12-20 10:18:40] [WARNING] From C:\ProgramData\Anaconda3\lib\site-packages\keras\backend\tensorflow_backend.py:181: The name tf.ConfigProto is deprecated. Please use tf.compat.v1.ConfigProto instead.
+
+[2019-12-20 10:18:40] [WARNING] From C:\ProgramData\Anaconda3\lib\site-packages\keras\backend\tensorflow_backend.py:186: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+[2019-12-20 10:18:40] [WARNING] From C:\ProgramData\Anaconda3\lib\site-packages\keras\backend\tensorflow_backend.py:190: The name tf.global_variables is deprecated. Please use tf.compat.v1.global_variables instead.
+
+[2019-12-20 10:18:40] [WARNING] From C:\ProgramData\Anaconda3\lib\site-packages\keras\backend\tensorflow_backend.py:199: The name tf.is_variable_initialized is deprecated. Please use tf.compat.v1.is_variable_initialized instead.
+
+[2019-12-20 10:18:41] [WARNING] From C:\ProgramData\Anaconda3\lib\site-packages\keras\backend\tensorflow_backend.py:206: The name tf.variables_initializer is deprecated. Please use tf.compat.v1.variables_initializer instead.
+
+[2019-12-20 10:18:41] [INFO] ================================================
+[2019-12-20 10:18:41] [INFO] --------------:f1: 0.0033180746880500786 --------------
+[2019-12-20 10:18:41] [INFO] --------------:recall: 0.0016812439261418854 --------------
+[2019-12-20 10:18:41] [INFO] ================================================
+[2019-12-20 10:18:41] [INFO] ----------------------------数据信息 START--------------------------
+[2019-12-20 10:18:41] [INFO] 当前使用数据集: data
+[2019-12-20 10:18:41] [INFO] test_label:(24, 100, 7)
+[2019-12-20 10:18:41] [INFO] ----------------------------数据信息 END--------------------------
+[2019-12-20 10:18:42] [INFO] ================================================
+[2019-12-20 10:18:42] [INFO] --------------:f1: 0.14114032709858138 --------------
+[2019-12-20 10:18:42] [INFO] --------------:recall: 0.1394642857142857 --------------
+[2019-12-20 10:18:42] [INFO] ================================================
+[2019-12-20 10:18:42] [INFO] ----------------------------数据信息 START--------------------------
+[2019-12-20 10:18:42] [INFO] 当前使用数据集: data
+[2019-12-20 10:18:42] [INFO] test_label:(24, 100, 7)
+[2019-12-20 10:18:42] [INFO] ----------------------------数据信息 END--------------------------
+[2019-12-20 10:18:43] [INFO] ================================================
+[2019-12-20 10:18:43] [INFO] --------------:f1: 0.002112924052118793 --------------
+[2019-12-20 10:18:43] [INFO] --------------:recall: 0.0010714285714285715 --------------
+[2019-12-20 10:18:43] [INFO] ================================================
+[2019-12-20 10:18:43] [INFO] ----------------------------数据信息 START--------------------------
+[2019-12-20 10:18:43] [INFO] 当前使用数据集: data
+[2019-12-20 10:18:43] [INFO] test_label:(24, 100, 7)
+[2019-12-20 10:18:43] [INFO] ----------------------------数据信息 END--------------------------
+[2019-12-20 10:18:45] [INFO] ================================================
+[2019-12-20 10:18:45] [INFO] --------------:f1: 0.0017933604178705636 --------------
+[2019-12-20 10:18:45] [INFO] --------------:recall: 0.000901875901875902 --------------
+[2019-12-20 10:18:45] [INFO] ================================================
+[2019-12-20 10:31:25] [INFO] ----------------------------数据信息 START--------------------------
+[2019-12-20 10:31:25] [INFO] 当前使用数据集: data
+[2019-12-20 10:31:25] [INFO] test_label:(24, 100, 7)
+[2019-12-20 10:31:25] [INFO] ----------------------------数据信息 END--------------------------
+[2019-12-20 10:31:25] [WARNING] From C:\ProgramData\Anaconda3\lib\site-packages\keras\backend\tensorflow_backend.py:74: The name tf.get_default_graph is deprecated. Please use tf.compat.v1.get_default_graph instead.
+
+[2019-12-20 10:31:25] [WARNING] From C:\ProgramData\Anaconda3\lib\site-packages\keras\backend\tensorflow_backend.py:517: The name tf.placeholder is deprecated. Please use tf.compat.v1.placeholder instead.
+
+[2019-12-20 10:31:25] [WARNING] From C:\ProgramData\Anaconda3\lib\site-packages\keras\backend\tensorflow_backend.py:4138: The name tf.random_uniform is deprecated. Please use tf.random.uniform instead.
+
+[2019-12-20 10:31:25] [WARNING] From C:\ProgramData\Anaconda3\lib\site-packages\keras\backend\tensorflow_backend.py:133: The name tf.placeholder_with_default is deprecated. Please use tf.compat.v1.placeholder_with_default instead.
+
+[2019-12-20 10:31:25] [WARNING] From C:\ProgramData\Anaconda3\lib\site-packages\keras\backend\tensorflow_backend.py:3445: calling dropout (from tensorflow.python.ops.nn_ops) with keep_prob is deprecated and will be removed in a future version.
+Instructions for updating:
+Please use `rate` instead of `keep_prob`. Rate should be set to `rate = 1 - keep_prob`.
+[2019-12-20 10:31:25] [WARNING] From C:\ProgramData\Anaconda3\lib\site-packages\keras\optimizers.py:790: The name tf.train.Optimizer is deprecated. Please use tf.compat.v1.train.Optimizer instead.
+
+[2019-12-20 10:31:25] [WARNING] From C:\ProgramData\Anaconda3\lib\site-packages\tensorflow_core\python\ops\math_ops.py:2509: where (from tensorflow.python.ops.array_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.where in 2.0, which has the same broadcast rule as np.where
+[2019-12-20 10:31:25] [WARNING] From C:\ProgramData\Anaconda3\lib\site-packages\keras\backend\tensorflow_backend.py:174: The name tf.get_default_session is deprecated. Please use tf.compat.v1.get_default_session instead.
+
+[2019-12-20 10:31:25] [WARNING] From C:\ProgramData\Anaconda3\lib\site-packages\keras\backend\tensorflow_backend.py:181: The name tf.ConfigProto is deprecated. Please use tf.compat.v1.ConfigProto instead.
+
+[2019-12-20 10:31:25] [WARNING] From C:\ProgramData\Anaconda3\lib\site-packages\keras\backend\tensorflow_backend.py:186: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+[2019-12-20 10:31:25] [WARNING] From C:\ProgramData\Anaconda3\lib\site-packages\keras\backend\tensorflow_backend.py:190: The name tf.global_variables is deprecated. Please use tf.compat.v1.global_variables instead.
+
+[2019-12-20 10:31:25] [WARNING] From C:\ProgramData\Anaconda3\lib\site-packages\keras\backend\tensorflow_backend.py:199: The name tf.is_variable_initialized is deprecated. Please use tf.compat.v1.is_variable_initialized instead.
+
+[2019-12-20 10:31:25] [WARNING] From C:\ProgramData\Anaconda3\lib\site-packages\keras\backend\tensorflow_backend.py:206: The name tf.variables_initializer is deprecated. Please use tf.compat.v1.variables_initializer instead.
+
+[2019-12-20 10:31:26] [INFO] ================================================
+[2019-12-20 10:31:26] [INFO] --------------:f1: 0.00011899803653239723 --------------
+[2019-12-20 10:31:26] [INFO] --------------:recall: 5.952380952380953e-05 --------------
+[2019-12-20 10:31:26] [INFO] ================================================
+[2019-12-20 10:31:26] [INFO] ----------------------------数据信息 START--------------------------
+[2019-12-20 10:31:26] [INFO] 当前使用数据集: data
+[2019-12-20 10:31:26] [INFO] test_label:(24, 100, 7)
+[2019-12-20 10:31:26] [INFO] ----------------------------数据信息 END--------------------------
+[2019-12-20 10:31:27] [INFO] ================================================
+[2019-12-20 10:31:27] [INFO] --------------:f1: 0.00012395413696932137 --------------
+[2019-12-20 10:31:27] [INFO] --------------:recall: 6.200396825396825e-05 --------------
+[2019-12-20 10:31:27] [INFO] ================================================
+[2019-12-20 10:31:27] [INFO] ----------------------------数据信息 START--------------------------
+[2019-12-20 10:31:27] [INFO] 当前使用数据集: data
+[2019-12-20 10:31:27] [INFO] test_label:(24, 100, 7)
+[2019-12-20 10:31:27] [INFO] ----------------------------数据信息 END--------------------------
+[2019-12-20 10:31:28] [INFO] ================================================
+[2019-12-20 10:31:28] [INFO] --------------:f1: 0.004309861622870454 --------------
+[2019-12-20 10:31:28] [INFO] --------------:recall: 0.1439477834826672 --------------
+[2019-12-20 10:31:28] [INFO] ================================================
+[2019-12-20 10:31:28] [INFO] ----------------------------数据信息 START--------------------------
+[2019-12-20 10:31:28] [INFO] 当前使用数据集: data
+[2019-12-20 10:31:28] [INFO] test_label:(24, 100, 7)
+[2019-12-20 10:31:28] [INFO] ----------------------------数据信息 END--------------------------
+[2019-12-20 10:31:29] [INFO] ================================================
+[2019-12-20 10:31:29] [INFO] --------------:f1: 0.04998535877618338 --------------
+[2019-12-20 10:31:29] [INFO] --------------:recall: 0.13988095238095238 --------------
+[2019-12-20 10:31:29] [INFO] ================================================
+[2019-12-24 11:30:23] [INFO] ----------------------------数据信息 START--------------------------
+[2019-12-24 11:30:24] [INFO] 当前使用数据集: data
+[2019-12-24 11:30:25] [INFO] test_label:(222519, 20, 5)
+[2019-12-24 11:30:26] [INFO] ----------------------------数据信息 END--------------------------
+[2019-12-24 11:32:47] [WARNING] From C:\ProgramData\Anaconda3\lib\site-packages\keras\backend\tensorflow_backend.py:74: The name tf.get_default_graph is deprecated. Please use tf.compat.v1.get_default_graph instead.
+
+[2019-12-24 11:32:47] [WARNING] From C:\ProgramData\Anaconda3\lib\site-packages\keras\backend\tensorflow_backend.py:517: The name tf.placeholder is deprecated. Please use tf.compat.v1.placeholder instead.
+
+[2019-12-24 11:32:47] [WARNING] From C:\ProgramData\Anaconda3\lib\site-packages\keras\backend\tensorflow_backend.py:4138: The name tf.random_uniform is deprecated. Please use tf.random.uniform instead.
+
+[2019-12-24 11:32:48] [WARNING] From C:\ProgramData\Anaconda3\lib\site-packages\keras\backend\tensorflow_backend.py:133: The name tf.placeholder_with_default is deprecated. Please use tf.compat.v1.placeholder_with_default instead.
+
+[2019-12-24 11:32:48] [WARNING] From C:\ProgramData\Anaconda3\lib\site-packages\keras\backend\tensorflow_backend.py:3445: calling dropout (from tensorflow.python.ops.nn_ops) with keep_prob is deprecated and will be removed in a future version.
+Instructions for updating:
+Please use `rate` instead of `keep_prob`. Rate should be set to `rate = 1 - keep_prob`.
+[2019-12-24 11:32:53] [WARNING] From C:\ProgramData\Anaconda3\lib\site-packages\keras\optimizers.py:790: The name tf.train.Optimizer is deprecated. Please use tf.compat.v1.train.Optimizer instead.
+
+[2019-12-24 11:32:55] [WARNING] From C:\ProgramData\Anaconda3\lib\site-packages\tensorflow_core\python\ops\math_ops.py:2509: where (from tensorflow.python.ops.array_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.where in 2.0, which has the same broadcast rule as np.where
+[2019-12-24 11:33:02] [WARNING] From C:\ProgramData\Anaconda3\lib\site-packages\keras\backend\tensorflow_backend.py:174: The name tf.get_default_session is deprecated. Please use tf.compat.v1.get_default_session instead.
+
+[2019-12-24 11:33:02] [WARNING] From C:\ProgramData\Anaconda3\lib\site-packages\keras\backend\tensorflow_backend.py:181: The name tf.ConfigProto is deprecated. Please use tf.compat.v1.ConfigProto instead.
+
+[2019-12-24 11:33:02] [WARNING] From C:\ProgramData\Anaconda3\lib\site-packages\keras\backend\tensorflow_backend.py:186: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+[2019-12-24 11:33:02] [WARNING] From C:\ProgramData\Anaconda3\lib\site-packages\keras\backend\tensorflow_backend.py:190: The name tf.global_variables is deprecated. Please use tf.compat.v1.global_variables instead.
+
+[2019-12-24 11:33:02] [WARNING] From C:\ProgramData\Anaconda3\lib\site-packages\keras\backend\tensorflow_backend.py:199: The name tf.is_variable_initialized is deprecated. Please use tf.compat.v1.is_variable_initialized instead.
+
+[2019-12-24 11:33:02] [WARNING] From C:\ProgramData\Anaconda3\lib\site-packages\keras\backend\tensorflow_backend.py:206: The name tf.variables_initializer is deprecated. Please use tf.compat.v1.variables_initializer instead.
+
+[2019-12-24 11:35:01] [INFO] ================================================
+[2019-12-24 11:35:01] [INFO] --------------:f1: 0.8711585511265787 --------------
+[2019-12-24 11:35:02] [INFO] --------------:recall: 0.8491596244062996 --------------
+[2019-12-24 11:35:02] [INFO] ================================================
